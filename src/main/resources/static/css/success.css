@@ -1,0 +1,10 @@
+@charset "ISO-8859-1";
+.body-class {
+	min-height: 470px;
+}
+.navbar-brand {
+    color: orange !important;
+}
+.container{
+	color:white;
+}

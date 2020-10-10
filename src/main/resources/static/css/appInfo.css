@@ -1,0 +1,10 @@
+@charset "ISO-8859-1";
+.body-class {
+	min-height: 300px;
+}
+.navbar-brand {
+    color: orange !important;
+}
+.card-2 {
+	box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+}
